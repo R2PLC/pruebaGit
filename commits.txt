@@ -1,0 +1,17 @@
+commit ad417a2c7d755c0d78500f7b7768ac2be3c6deb6
+Author: APLC <arturoplc99@gmail.com>
+Date:   Thu Oct 29 10:52:36 2020 -0600
+
+    Se puede regresar a principal
+
+commit 7755e1b928c2cf518c86c775a5864f8fd0104707
+Author: APLC <arturoplc99@gmail.com>
+Date:   Thu Oct 29 10:38:34 2020 -0600
+
+    Cambio titulo en principal
+
+commit 55496e8bc69e8c9ccf9a35c8bb67408434b54d3b
+Author: APLC <arturoplc99@gmail.com>
+Date:   Tue Oct 27 10:52:20 2020 -0600
+
+    Iniciamos
